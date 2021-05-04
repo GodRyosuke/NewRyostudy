@@ -10,7 +10,7 @@
             <div class="carousel-inner">
                 <div class="c-item carousel-item active">
                     <a href="#">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sky-building.jpg" alt="">
+                        <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sky-building.jpg" alt=""> -->
                     </a>
                 </div>
                 <?php
